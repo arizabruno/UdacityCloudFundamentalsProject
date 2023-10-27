@@ -1,6 +1,7 @@
 # Udacity Cloud Fundamentals - Project: Deploy Static Website on AWS
 
 Link to the website: https://d1q3l9v31pt0g9.cloudfront.net
+
 Note: this link will be deativated once the project is graded.
 
 ## Cloud Front
