@@ -22,7 +22,9 @@ Link to the website: https://d1q3l9v31pt0g9.cloudfront.net
 
 Note: this link will be deativated once the project is graded.
 
+
 ## S3
+![S3](s3_required.png)
 ![S3](s3.png)
 
 ## S3 Permissions
@@ -32,6 +34,7 @@ Note: this link will be deativated once the project is graded.
 ![S3 Static Website Hosting](s3_static_website_hosting.png)
 
 ## Cloud Front
+![Cloud Front](cloud_front_required.png)
 ![Cloud Front](cloud_front.png)
 
 ## Website
